@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3ab37589ed2ec54f84ca5633d301a4c
-      internalID: -1727213307
+      spriteID: 3dfb19a964eab9d4080181d007fcc942
+      internalID: 1915773801
       vertices: []
       indices: 
       edges: []
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 638d3bab05bdbc64f8e385633e950b4a
-      internalID: -570869338
+      spriteID: 2838a5f0cab3c3d4f9493b7e885a94e0
+      internalID: 112252069
       vertices: []
       indices: 
       edges: []
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e93069f5154f764891bb9bdb6f0d5e8
-      internalID: 2112730320
+      spriteID: 041d637e86a1f6347853008478371a1a
+      internalID: -1452061372
       vertices: []
       indices: 
       edges: []
@@ -205,8 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a3258c5008600645b5a74868d65a405
-      internalID: -1079093996
+      spriteID: 0ebdfbb2c3ea5c947b5b32afc70c7a0b
+      internalID: -1045093213
       vertices: []
       indices: 
       edges: []
@@ -226,8 +226,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1578dee16fbc02e43bf036e4a7904d9c
-      internalID: -1478423338
+      spriteID: e30105c4b40854e4fac3f6605de4e2f8
+      internalID: -1873498949
       vertices: []
       indices: 
       edges: []
@@ -247,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a04c6f910f26cd443b2373881a4b9d9a
-      internalID: 276703748
+      spriteID: 66e5b973dd975fb43b00baa6fa809de7
+      internalID: 448647355
       vertices: []
       indices: 
       edges: []
@@ -268,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5733d025e31afd41a7ed22b651788fb
-      internalID: 1239021172
+      spriteID: be7092abe9929624b87d59deaa9f218d
+      internalID: 506496532
       vertices: []
       indices: 
       edges: []
@@ -289,8 +289,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79ec1d93e473a6c47925301fd9909041
-      internalID: -1687245533
+      spriteID: 156bb9854180df243a1836baa99a5df9
+      internalID: -313228220
       vertices: []
       indices: 
       edges: []
@@ -310,8 +310,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3185563f038caf14f8d1167d47964a6f
-      internalID: -1825882384
+      spriteID: a452cba6ce7be1742bb5d3eccb29d48a
+      internalID: -1030622424
       vertices: []
       indices: 
       edges: []
@@ -331,8 +331,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ef875ba9f047dc49850eb1d68767d63
-      internalID: -1047242075
+      spriteID: 244ae9e774b500e4e9a65a82af36d4ad
+      internalID: 203134273
       vertices: []
       indices: 
       edges: []
@@ -352,8 +352,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d4f658081ebd8146accb3fee74dd123
-      internalID: 465921648
+      spriteID: d870b4dca86df8e41a1a983060a8ef4a
+      internalID: -682796376
       vertices: []
       indices: 
       edges: []
@@ -373,8 +373,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98d7d5651ad33f64ca9df8f92700fa92
-      internalID: -1632670150
+      spriteID: 551f8bedaaba56d49b7cda767d9b34d2
+      internalID: -937143655
       vertices: []
       indices: 
       edges: []
@@ -394,8 +394,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fb7ba0c8c627c24dbb3d38e9cdabf6d
-      internalID: 1581202837
+      spriteID: b3aa6d36c96ed794f83a72001df180d2
+      internalID: 1693360441
       vertices: []
       indices: 
       edges: []
@@ -415,8 +415,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d77d41681fdc6cd49b26593b64ed52ab
-      internalID: -2139907781
+      spriteID: c2c6aab47e367d144923f39cf42654c2
+      internalID: 955808576
       vertices: []
       indices: 
       edges: []
@@ -436,8 +436,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c29629b68cb298498a80babc221a067
-      internalID: -141828822
+      spriteID: b32c8ff337931aa4f9e0fd14281d80ad
+      internalID: 420869413
       vertices: []
       indices: 
       edges: []
@@ -457,8 +457,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5280b925aca33714eb7a2fa29a72cd4f
-      internalID: -2093169548
+      spriteID: a260a441a336de243b0f1a1a4bffe88d
+      internalID: -1911354565
       vertices: []
       indices: 
       edges: []
@@ -474,22 +474,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Platformer Tilepallet_13: -2139907781
-      Platformer Tilepallet_4: -1478423338
-      Platformer Tilepallet_6: 1239021172
-      Platformer Tilepallet_0: -1727213307
-      Platformer Tilepallet_1: -570869338
-      Platformer Tilepallet_2: 2112730320
-      Platformer Tilepallet_15: -2093169548
-      Platformer Tilepallet_10: 465921648
-      Platformer Tilepallet_11: -1632670150
-      Platformer Tilepallet_12: 1581202837
-      Platformer Tilepallet_7: -1687245533
-      Platformer Tilepallet_8: -1825882384
-      Platformer Tilepallet_3: -1079093996
-      Platformer Tilepallet_14: -141828822
-      Platformer Tilepallet_5: 276703748
-      Platformer Tilepallet_9: -1047242075
+      Platformer Tilepallet_13: 955808576
+      Platformer Tilepallet_4: -1873498949
+      Platformer Tilepallet_6: 506496532
+      Platformer Tilepallet_0: 1915773801
+      Platformer Tilepallet_1: 112252069
+      Platformer Tilepallet_2: -1452061372
+      Platformer Tilepallet_15: -1911354565
+      Platformer Tilepallet_10: -682796376
+      Platformer Tilepallet_11: -937143655
+      Platformer Tilepallet_12: 1693360441
+      Platformer Tilepallet_7: -313228220
+      Platformer Tilepallet_8: -1030622424
+      Platformer Tilepallet_3: -1045093213
+      Platformer Tilepallet_14: 420869413
+      Platformer Tilepallet_5: 448647355
+      Platformer Tilepallet_9: 203134273
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
