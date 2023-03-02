@@ -44,4 +44,16 @@ public class EnemyControl : MonoBehaviour
             rb.velocity = new Vector2(moveDirection.x, moveDirection.y) * moveSpeed;
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        //sense bullets
+        {
+            if(collision.gameObject.CompareTag("bullet"))
+            {
+                Destroy(collision.gameObject);
+                Destroy(gameObject);
+            }
+        }
+    }
 }
