@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6ca051c9169584c428d997055d870a06
+guid: 98014190a428e364981800c92b7e51c9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dragon Ball_0
+      name: 2 Dragon Ball_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1800
-        width: 500
-        height: 300
+        x: 109
+        y: 1799
+        width: 293
+        height: 301
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,20 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48474eda8d256394582b7cdff911464d
-      internalID: -1097111366
+      spriteID: ccf69a1a5bb7c4141bb162202ed183ca
+      internalID: -381070730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_1
+      name: 2 Dragon Ball_1
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1800
-        width: 500
-        height: 300
+        x: 609
+        y: 1799
+        width: 292
+        height: 301
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 258531ff9ed490748a2733b4f83df282
-      internalID: 1848457356
+      spriteID: 3b2a4b6cab901ac43ae3e57cb158786e
+      internalID: 543991929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_2
+      name: 2 Dragon Ball_2
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1800
-        width: 500
-        height: 300
+        x: 1109
+        y: 1799
+        width: 293
+        height: 301
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a85175a8a34dc9a48b1e83d67db7adb1
-      internalID: -1449768137
+      spriteID: 18af37520ec7abb4db7ef07c57f2e056
+      internalID: 1974324689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_3
+      name: 2 Dragon Ball_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1500
-        width: 500
-        height: 300
+        x: 1609
+        y: 1799
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e1e3b4a5967ee4449ac80f668b53d4b
-      internalID: -1251621309
+      spriteID: 68c9b67bc0f8ee541bfdbe22250df87f
+      internalID: -41600835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_4
+      name: 2 Dragon Ball_4
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1500
-        width: 500
-        height: 300
+        x: 109
+        y: 1499
+        width: 293
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c5cf06cb0c454243a18c7ad76b792ae
-      internalID: -450339849
+      spriteID: 5a358be6ca481a447a072189223c14a0
+      internalID: -405422252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_5
+      name: 2 Dragon Ball_5
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1500
-        width: 500
-        height: 300
+        x: 609
+        y: 1499
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f1bf00e233552d4cadb6cb3236a0030
-      internalID: -936762489
+      spriteID: 9640ced6d7b08eb42b920cadeaf5adef
+      internalID: 1137738332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_6
+      name: 2 Dragon Ball_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1200
-        width: 500
-        height: 300
+        x: 1109
+        y: 1499
+        width: 293
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ca6fdc39848e1245adec5515230dd53
-      internalID: 1639038415
+      spriteID: 3c9a8b76e79abab4fb93452d2887e4ea
+      internalID: -1780104528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_7
+      name: 2 Dragon Ball_7
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1200
-        width: 500
-        height: 300
+        x: 1609
+        y: 1499
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74c60815b53b05e4b9e327083def20ed
-      internalID: 1631801164
+      spriteID: 6467fa4eb8c9319408eb5d5aabea54ce
+      internalID: 1880313207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_8
+      name: 2 Dragon Ball_8
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1200
-        width: 500
-        height: 300
+        x: 109
+        y: 1199
+        width: 293
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,20 +310,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50fc94f92045cb64b8446334a2ec96e8
-      internalID: 1759876054
+      spriteID: 3799f6e6caeda8a46997cfd23cef9df0
+      internalID: 669283286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_9
+      name: 2 Dragon Ball_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 900
-        width: 500
-        height: 300
+        x: 609
+        y: 1199
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,20 +331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82c62fb748612954dac9d0cf2ba85a0c
-      internalID: -553153073
+      spriteID: 9084aea13217c94498b7edc9c84cd9b8
+      internalID: 1136672359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_10
+      name: 2 Dragon Ball_10
       rect:
         serializedVersion: 2
-        x: 500
-        y: 900
-        width: 500
-        height: 300
+        x: 1109
+        y: 1199
+        width: 293
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,20 +352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a34db3e0c3c7b854f92ae4ab94d9bf52
-      internalID: -1166245348
+      spriteID: b49325b1c567e714eb79f131009ae9c5
+      internalID: -108639307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_11
+      name: 2 Dragon Ball_11
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 900
-        width: 500
-        height: 300
+        x: 1609
+        y: 1199
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,20 +373,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0c52b723f823924a89f551a016eb899
-      internalID: 1273916706
+      spriteID: 4def0dcbcc2228142a4f24846f45f8d7
+      internalID: -961564236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_12
+      name: 2 Dragon Ball_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 600
-        width: 500
-        height: 300
+        x: 109
+        y: 899
+        width: 293
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,20 +394,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 782febb78e5a20e47ab3ac2420c335c9
-      internalID: -1382484366
+      spriteID: 03d40bbe822d33e458e703841f6d1ccf
+      internalID: -1485127256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_13
+      name: 2 Dragon Ball_13
       rect:
         serializedVersion: 2
-        x: 500
-        y: 600
-        width: 500
-        height: 300
+        x: 609
+        y: 899
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,20 +415,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc217d12b166f2f4ca4def2465e48585
-      internalID: -1459891938
+      spriteID: d0d705d34969cda48af1b0bf0e100408
+      internalID: -842182499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_14
+      name: 2 Dragon Ball_14
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 600
-        width: 500
-        height: 300
+        x: 1109
+        y: 899
+        width: 293
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,20 +436,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cccba1265d5dec94893d3fa25ab402ca
-      internalID: 604880428
+      spriteID: 9b30ee3372cbd6a458831d655293d8dd
+      internalID: -1613377162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_15
+      name: 2 Dragon Ball_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 300
-        width: 500
-        height: 300
+        x: 1609
+        y: 899
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,20 +457,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebcab83d24b3375439f047864cfe44dd
-      internalID: 1717022751
+      spriteID: 7ea8dd135d6e8e243b431c98820b7c54
+      internalID: -1420867895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_16
+      name: 2 Dragon Ball_16
       rect:
         serializedVersion: 2
-        x: 500
-        y: 300
-        width: 500
-        height: 300
+        x: 109
+        y: 599
+        width: 293
+        height: 293
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,20 +478,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56f3229656447a841b3dca126d882348
-      internalID: -608535337
+      spriteID: d61738d215b95eb4280ec2b29221c05a
+      internalID: -726236517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_17
+      name: 2 Dragon Ball_17
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 300
-        width: 500
-        height: 300
+        x: 609
+        y: 599
+        width: 292
+        height: 293
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,20 +499,146 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe97f9e338d421248b40a86f1d3f90b5
-      internalID: 1801335785
+      spriteID: 686a2464202ed694caf20117f3ebc497
+      internalID: -1902663153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_18
+      name: 2 Dragon Ball_18
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1109
+        y: 599
+        width: 293
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b48f1e7cf031e438ccb44064711961
+      internalID: 535025459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Dragon Ball_19
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 599
+        width: 292
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2595374daf2b21243b1714dc670e6cab
+      internalID: -2088856783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Dragon Ball_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 299
+        width: 293
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6e06df8a82fe24796b9d6ea2445368
+      internalID: -230878037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Dragon Ball_21
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 299
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaed201eff6edd41b1800f796f472ae
+      internalID: 673872211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Dragon Ball_22
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 299
+        width: 293
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580ce91e2479874ba667ccdb5ea75a8
+      internalID: -437699090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Dragon Ball_23
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 299
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e10f7bcd970924abb342dab69eb91e
+      internalID: -1662368561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Dragon Ball_24
+      rect:
+        serializedVersion: 2
+        x: 109
         y: 0
-        width: 500
-        height: 300
+        width: 293
+        height: 291
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,20 +646,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f20dca530b4c2043ae4b47acedfa448
-      internalID: 1774394245
+      spriteID: 227bae5a6a5109146ab9f1ea3a19aa9a
+      internalID: -697153823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_19
+      name: 2 Dragon Ball_25
       rect:
         serializedVersion: 2
-        x: 500
+        x: 609
         y: 0
-        width: 500
-        height: 300
+        width: 292
+        height: 291
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,20 +667,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a0332214de438940a304c637b28fa42
-      internalID: 575911305
+      spriteID: 1d1304c28dbff6e418183cdd866558bc
+      internalID: -30806936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dragon Ball_20
+      name: 2 Dragon Ball_26
       rect:
         serializedVersion: 2
-        x: 1000
+        x: 1109
         y: 0
-        width: 500
-        height: 300
+        width: 293
+        height: 291
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,8 +688,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e2ffd64b1bedae42a490371961afb08
-      internalID: 1206335338
+      spriteID: 809c4c48d5ae22a4b86f1a4a464b7d9d
+      internalID: -434987242
       vertices: []
       indices: 
       edges: []
@@ -579,27 +705,33 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dragon Ball_3: -1251621309
-      Dragon Ball_7: 1631801164
-      Dragon Ball_11: 1273916706
-      Dragon Ball_19: 575911305
-      Dragon Ball_20: 1206335338
-      Dragon Ball_10: -1166245348
-      Dragon Ball_12: -1382484366
-      Dragon Ball_13: -1459891938
-      Dragon Ball_15: 1717022751
-      Dragon Ball_0: -1097111366
-      Dragon Ball_9: -553153073
-      Dragon Ball_2: -1449768137
-      Dragon Ball_5: -936762489
-      Dragon Ball_6: 1639038415
-      Dragon Ball_8: 1759876054
-      Dragon Ball_16: -608535337
-      Dragon Ball_17: 1801335785
-      Dragon Ball_14: 604880428
-      Dragon Ball_1: 1848457356
-      Dragon Ball_4: -450339849
-      Dragon Ball_18: 1774394245
+      2 Dragon Ball_9: 1136672359
+      2 Dragon Ball_14: -1613377162
+      2 Dragon Ball_20: -230878037
+      2 Dragon Ball_2: 1974324689
+      2 Dragon Ball_19: -2088856783
+      2 Dragon Ball_21: 673872211
+      2 Dragon Ball_16: -726236517
+      2 Dragon Ball_17: -1902663153
+      2 Dragon Ball_10: -108639307
+      2 Dragon Ball_3: -41600835
+      2 Dragon Ball_15: -1420867895
+      2 Dragon Ball_26: -434987242
+      2 Dragon Ball_0: -381070730
+      2 Dragon Ball_4: -405422252
+      2 Dragon Ball_22: -437699090
+      2 Dragon Ball_25: -30806936
+      2 Dragon Ball_11: -961564236
+      2 Dragon Ball_6: -1780104528
+      2 Dragon Ball_8: 669283286
+      2 Dragon Ball_18: 535025459
+      2 Dragon Ball_24: -697153823
+      2 Dragon Ball_7: 1880313207
+      2 Dragon Ball_1: 543991929
+      2 Dragon Ball_13: -842182499
+      2 Dragon Ball_12: -1485127256
+      2 Dragon Ball_23: -1662368561
+      2 Dragon Ball_5: 1137738332
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
