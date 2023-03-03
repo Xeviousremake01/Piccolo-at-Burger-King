@@ -131,10 +131,10 @@ TextureImporter:
       name: Dragon Ball_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1800
-        width: 500
-        height: 300
+        x: 109
+        y: 1799
+        width: 292
+        height: 301
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,10 +152,10 @@ TextureImporter:
       name: Dragon Ball_1
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1800
-        width: 500
-        height: 300
+        x: 609
+        y: 1799
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,10 +173,10 @@ TextureImporter:
       name: Dragon Ball_2
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1800
-        width: 500
-        height: 300
+        x: 1109
+        y: 1799
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: Dragon Ball_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1500
-        width: 500
-        height: 300
+        x: 109
+        y: 1499
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +215,10 @@ TextureImporter:
       name: Dragon Ball_4
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1500
-        width: 500
-        height: 300
+        x: 609
+        y: 1499
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,10 +236,10 @@ TextureImporter:
       name: Dragon Ball_5
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1500
-        width: 500
-        height: 300
+        x: 1109
+        y: 1499
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: Dragon Ball_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1200
-        width: 500
-        height: 300
+        x: 109
+        y: 1199
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: Dragon Ball_7
       rect:
         serializedVersion: 2
-        x: 500
-        y: 1200
-        width: 500
-        height: 300
+        x: 609
+        y: 1199
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +299,10 @@ TextureImporter:
       name: Dragon Ball_8
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 1200
-        width: 500
-        height: 300
+        x: 1109
+        y: 1199
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,10 +320,10 @@ TextureImporter:
       name: Dragon Ball_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 900
-        width: 500
-        height: 300
+        x: 109
+        y: 899
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,10 +341,10 @@ TextureImporter:
       name: Dragon Ball_10
       rect:
         serializedVersion: 2
-        x: 500
-        y: 900
-        width: 500
-        height: 300
+        x: 609
+        y: 899
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: Dragon Ball_11
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 900
-        width: 500
-        height: 300
+        x: 1109
+        y: 899
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,10 +383,10 @@ TextureImporter:
       name: Dragon Ball_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 600
-        width: 500
-        height: 300
+        x: 109
+        y: 599
+        width: 292
+        height: 293
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: Dragon Ball_13
       rect:
         serializedVersion: 2
-        x: 500
-        y: 600
-        width: 500
-        height: 300
+        x: 609
+        y: 599
+        width: 292
+        height: 293
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,10 +425,10 @@ TextureImporter:
       name: Dragon Ball_14
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 600
-        width: 500
-        height: 300
+        x: 1109
+        y: 599
+        width: 292
+        height: 293
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,10 +446,10 @@ TextureImporter:
       name: Dragon Ball_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 300
-        width: 500
-        height: 300
+        x: 109
+        y: 299
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -467,10 +467,10 @@ TextureImporter:
       name: Dragon Ball_16
       rect:
         serializedVersion: 2
-        x: 500
-        y: 300
-        width: 500
-        height: 300
+        x: 609
+        y: 299
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -488,10 +488,10 @@ TextureImporter:
       name: Dragon Ball_17
       rect:
         serializedVersion: 2
-        x: 1000
-        y: 300
-        width: 500
-        height: 300
+        x: 1109
+        y: 299
+        width: 292
+        height: 292
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +509,10 @@ TextureImporter:
       name: Dragon Ball_18
       rect:
         serializedVersion: 2
-        x: 0
+        x: 109
         y: 0
-        width: 500
-        height: 300
+        width: 292
+        height: 291
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,48 +522,6 @@ TextureImporter:
       bones: []
       spriteID: 9f20dca530b4c2043ae4b47acedfa448
       internalID: 1774394245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dragon Ball_19
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 0
-        width: 500
-        height: 300
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a0332214de438940a304c637b28fa42
-      internalID: 575911305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dragon Ball_20
-      rect:
-        serializedVersion: 2
-        x: 1000
-        y: 0
-        width: 500
-        height: 300
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e2ffd64b1bedae42a490371961afb08
-      internalID: 1206335338
       vertices: []
       indices: 
       edges: []
@@ -582,8 +540,6 @@ TextureImporter:
       Dragon Ball_3: -1251621309
       Dragon Ball_7: 1631801164
       Dragon Ball_11: 1273916706
-      Dragon Ball_19: 575911305
-      Dragon Ball_20: 1206335338
       Dragon Ball_10: -1166245348
       Dragon Ball_12: -1382484366
       Dragon Ball_13: -1459891938

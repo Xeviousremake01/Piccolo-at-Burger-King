@@ -28,6 +28,24 @@ public class PlayerControl : MonoBehaviour
         //movement
         transform.Rotate(Vector3.back * Time.deltaTime * horizontalInput * rotationSpeed);
         transform.Translate(Vector2.right * Time.deltaTime * verticalInput * moveSpeed);
+
+        //boundaries
+        if(gameObject.transform.position.x < -11.5)
+        {
+            gameObject.transform.position = new Vector2(-11.5f, gameObject.transform.position.y);
+        }
+        if (gameObject.transform.position.x > 13)
+        {
+            gameObject.transform.position = new Vector2(13, gameObject.transform.position.y);
+        }
+        if (gameObject.transform.position.y > 8.8)
+        {
+            gameObject.transform.position = new Vector2(gameObject.transform.position.x, 8.8f);
+        }
+        if (gameObject.transform.position.y < -12.8)
+        {
+            gameObject.transform.position = new Vector2(gameObject.transform.position.x, -12.8f);
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
