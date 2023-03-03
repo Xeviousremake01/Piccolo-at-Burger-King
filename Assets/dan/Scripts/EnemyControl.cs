@@ -53,6 +53,7 @@ public class EnemyControl : MonoBehaviour
             {
                 Destroy(collision.gameObject);
                 Destroy(gameObject);
+                GameManager.score++;
             }
         }
     }

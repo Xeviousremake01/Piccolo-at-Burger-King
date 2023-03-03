@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerControl : MonoBehaviour
 {
@@ -27,5 +28,14 @@ public class PlayerControl : MonoBehaviour
         //movement
         transform.Rotate(Vector3.back * Time.deltaTime * horizontalInput * rotationSpeed);
         transform.Translate(Vector2.right * Time.deltaTime * verticalInput * moveSpeed);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.CompareTag("Enemy"))
+        {
+            GameManager.score = 0;
+            SceneManager.LoadScene("Gameover");
+        }
     }
 }
